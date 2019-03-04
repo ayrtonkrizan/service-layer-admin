@@ -1,8 +1,8 @@
-#service-layer-admin - Simplified Service Layer client
+# service-layer-admin - Simplified Service Layer client
 This is a node module designed to be the simplest way possible to admin SAP Business One Service Layer calls.
 Request is designed to be the simplest way possible to make http calls. It supports HTTPS and follows redirects by default.
 
-###Features
+### Features
 - Session Administration;
 - Simplified request names;
 - Update and insert data with same JSON.
