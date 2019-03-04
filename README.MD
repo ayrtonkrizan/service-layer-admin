@@ -8,9 +8,9 @@ This is a node module designed to be the simplest way possible to admin SAP Busi
 - Async methods.
 
 ### Testing
-1 - Create a folder `mkdir sl-test`;
-2 - Enter in this folder `cd sl-test`;
-3 - Run `npm install service-layer-admin`;
+1 - Create a folder `mkdir sl-test`
+2 - Enter in this folder `cd sl-test`
+3 - Run `npm install service-layer-admin`
 4 - Create a file `index.js` and paste the code:
 ```javascript
 var admin = require('service-layer-admin');
