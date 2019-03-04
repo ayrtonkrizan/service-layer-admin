@@ -1,6 +1,6 @@
 {
   "name": "service-layer-admin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SAP Service Layer Request Administration",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,14 @@
   "dependencies": {
     "request": "^2.88.0",
     "request-promise": "^4.2.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayrtonkrizan/service-layer-admin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ayrtonkrizan/service-layer-admin/issues"
+  },
+  "homepage": "https://github.com/ayrtonkrizan/service-layer-admin#readme"
 }
